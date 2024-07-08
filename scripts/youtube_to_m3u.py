@@ -4,8 +4,8 @@ data = pd.read_csv("youtube_channel.csv")
 last_id = data['id'].iloc[-1]
 i = 0
 for i in range(last_id):
-  channel_name = data[data['id'] == i+1]['channel_name'].values[0]
-  url = data[data['id'] == i+1]['url'].values[0]
+  channel_name = data[data['id'] == i]['channel_name'].values[0]
+  url = data[data['id'] == i]['url'].values[0]
   response = requests.get(url, timeout=15).text
   if '.m3u8' not in response:
     m3u8link = "nolive/index.m3u8"
