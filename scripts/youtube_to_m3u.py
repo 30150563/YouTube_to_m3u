@@ -1,9 +1,9 @@
 import requests
 import pandas as pd
 data = pd.read_csv("youtube_channel.csv")
-last_id = data['id'].iloc[-1]
 i = 0
-for i in range(last_id):
+last_id = data['id'].iloc[-1]
+for i in range(1,last_id):
   channel_name = data[data['id'] == i]['channel_name'].values[0]
   url = data[data['id'] == i]['url'].values[0]
   response = requests.get(url, timeout=15).text
