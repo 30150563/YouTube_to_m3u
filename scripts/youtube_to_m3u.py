@@ -26,5 +26,3 @@ for i in range(last_id+1):
     f = open("m3u_list/"+ channel_name + ".m3u8", 'w')
     f.write(m3u8_1 + '\n' + m3u8_2 + '\n' + m3u8_3+ '\n' + m3u8link)
     f.close()
-    print(channel_name+"\n")
-    print(m3u8link+"\n")
