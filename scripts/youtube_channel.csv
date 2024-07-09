@@ -1,21 +1,21 @@
 id,file_name,channel_name,url
 0,TV001,寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U&ab_channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E9%A0%BB%E9%81%93
-1,TV002,TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-2,TV003,CTI中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
+1,TV002,TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc&ab_channel=TVBSNEWS
+2,TV003,CTI中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w&ab_channel=%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96
 3,TV004,東森新聞,https://www.youtube.com/newsebc/live
 4,TV005,台視新聞台,https://www.youtube.com/@TTV_NEWS/live
-5,TV006,三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
+5,TV006,三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY&ab_channel=%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E
 6,TV007,三立iNEWS,https://www.youtube.com/@setinews/live
 7,TV008,中視新聞,https://www.youtube.com/@twctvnews/live
 8,TV009,鏡新聞,https://www.youtube.com/@mnews-tw/live
-9,TV010,CTI+ 中天2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+9,TV010,CTI+ 中天2台,https://www.youtube.com/watch?v=WPfPjbOLNfE&ab_channel=CTI%2B%7C%E4%B8%AD%E5%A4%A92%E5%8F%B0
 10,TV011,民視新聞,https://www.youtube.com/@FTV_News/live
 11,TV012,公視新聞,https://www.youtube.com/c/PNNPTS/live
-12,TV013,NOWnews新聞(AI中文直播),https://www.youtube.com/watch?v=5zr_12Rl8xg
+12,TV013,NOWnews新聞(AI中文直播),https://www.youtube.com/watch?v=5zr_12Rl8xg&ab_channel=AI%E4%B8%BB%E6%92%AD%E5%80%AA%E7%8F%8D24%E5%B0%8F%E6%99%82%E6%92%AD%E6%96%B0%E8%81%9EAIAnchorTaiwanNewsLiveStreaming
 13,TV014,NOWnews新聞(AI英文直播),https://www.youtube.com/@NOWnews-sp2di/live
 14,TV015,東森財經新聞,https://www.youtube.com/@57ETFN/live
 15,TV016,寰宇財經台,https://www.youtube.com/@globlemoney/live
-16,TV017,非凡商業台,https://www.youtube.com/watch?v=QlJJEwMYzEc
+16,TV017,非凡商業台,https://www.youtube.com/watch?v=QlJJEwMYzEc&ab_channel=USTV%E9%9D%9E%E5%87%A1%E9%9B%BB%E8%A6%96
 17,TV018,SBN全球財經台,https://www.youtube.com/@SBN1688/live
 18,TV019,運通財經台,https://www.youtube.com/@EFTV01/live
 19,TV020,momo購物一台,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
