@@ -1,46 +1,51 @@
-id,channel_name,url
-0,中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-1,東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-2,鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-3,中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-4,民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-5,三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-6,TVBS 55,https://www.youtube.com/watch?v=m_dhMSvUCIc
-7,寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-8,華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-9,NOWnews新聞(AI中文直播),https://www.youtube.com/watch?v=5zr_12Rl8xg
-10,公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-11,寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-12,NOWnews新聞(AI英文直播),https://www.youtube.com/watch?v=QNqKhzp3FHw
-13,中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
-14,三立新聞2台,https://www.youtube.com/watch?v=CKjSm5ZeehE
-15,台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-16,NBC News,https://www.youtube.com/watch?v=3Tft5W1eonk
-17,Bloomberg,https://www.youtube.com/watch?v=iyOq8DhaMYw
-18,ABC News,https://www.youtube.com/watch?v=-mvUkiILTqI
-19,Fox News,https://www.youtube.com/watch?v=YDfiTGGPYCk
-20,Sky News,https://www.youtube.com/watch?v=oJUvTVdTMyY
-21,euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
-22,德國之聲,https://www.youtube.com/watch?v=tZT2MCYu6Zw
-23,法蘭西 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
-24,半島電視台,https://www.youtube.com/watch?v=gCNeDWCI0vo
-25,新加坡 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
-26,朝日電視網,https://www.youtube.com/watch?v=sTAqx_1Yrww
-27,日本新聞網 TBS,https://www.youtube.com/watch?v=ohI356mwBp8
-28,全日本新聞網 ANN,https://www.youtube.com/watch?v=coYw-eVU0Ks
-29,NHK WORLD JAPAN,https://www.youtube.com/watch?v=f0lYkdA-Gtw
-30,阿里郞電視台,https://www.youtube.com/watch?v=CJVBX7KI5nU
-31,韓國 YTN,https://www.youtube.com/watch?v=gBWT4UgmliM
-32,韓國 KBS,https://www.youtube.com/watch?v=7mByou6hV7M
-33,台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
-34,TVBS 56,https://www.youtube.com/watch?v=hP6_jfCFxyQ
-35,東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
-36,東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
-37,三立 iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
-38,寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
-39,非凡商業台,https://www.youtube.com/watch?v=QlJJEwMYzEc
-40,東森政論財經頻道,https://www.youtube.com/watch?v=JrkR2ZEya3I
-41,民視政論財經頻道,https://www.youtube.com/watch?v=9sdCqOy5Nfk
-42,全球財經台,https://www.youtube.com/watch?v=ggnr_2sD7zU
-43,運通財經台,https://www.youtube.com/watch?v=00-cOoemeZ8
-44,中廣新聞網,https://www.youtube.com/watch?v=8nMJkhoJPp8
+id,file_name,channel_name,url
+0,TV001,寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+1,TV002,寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+2,TV003,TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+3,TV004,CTI中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
+4,TV005,東森新聞,https://www.youtube.com/newsebc/live
+5,TV006,台視新聞台,https://www.youtube.com/@TTV_NEWS/live
+6,TV007,三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
+7,TV008,三立iNEWS,https://www.youtube.com/@setinews/live
+8,TV009,中視新聞,https://www.youtube.com/@twctvnews/live
+9,TV010,華視新聞,https://www.youtube.com/@CtsTw/live
+10,TV011,鏡新聞,https://www.youtube.com/@mnews-tw/live
+11,TV012,CTI+ 中天2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+12,TV013,民視新聞,https://www.youtube.com/@FTV_News/live
+13,TV014,公視新聞,https://www.youtube.com/c/PNNPTS/live
+14,TV015,NOWnews新聞(AI中文直播),https://www.youtube.com/watch?v=5zr_12Rl8xg
+15,TV016,NOWnews新聞(AI英文直播),https://www.youtube.com/@NOWnews-sp2di/live
+16,TV017,東森財經新聞,https://www.youtube.com/@57ETFN/live
+17,TV018,寰宇財經台,https://www.youtube.com/@globlemoney/live
+18,TV019,非凡商業台,https://www.youtube.com/watch?v=QlJJEwMYzEc
+19,TV020,SBN全球財經台,https://www.youtube.com/@SBN1688/live
+20,TV021,運通財經台,https://www.youtube.com/@EFTV01/live
+21,TV022,GPTV電影台,https://www.youtube.com/@GaragePlay/live
+22,TV023,momo購物一台,https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+23,TV024,momo購物二台,https://www.youtube.com/watch?v=xbNWkUyxQGM
+24,TV025,東森購物CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
+25,TV026,東森購物CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
+26,TV027,東森購物CH47,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+27,TV028,東森購物CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
+28,TV029,ViVa TV 美好購物1台,https://www.youtube.com/watch?v=7IyxOiGMLgw
+29,TV030,ViVa TV 美好購物2台,https://www.youtube.com/watch?v=lEXITHxcagI
+30,TV031,公視,https://www.youtube.com/@ptslivestream/live
+31,TV032,公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
+32,TV033,TaiwanPlus,https://www.youtube.com/@TaiwanPlusLive/live
+33,TV034,台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
+34,TV035,中天亞洲,https://www.youtube.com/@%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0CtiAsia/live
+35,TV036,國會頻道1,https://www.youtube.com/watch?v=4HysYHJ6GkY
+36,TV037,國會頻道2,https://www.youtube.com/watch?v=Lj8OWF6nzcg
+37,TV038,大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
+38,TV039,大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+39,TV040,華藏衛視,https://www.youtube.com/@hztv2212/live
+40,TV041,正德電視台,https://www.youtube.com/@chengteTV/live
+41,TV042,十方法界衛視,https://www.youtube.com/@cbtv2525/live
+42,TV043,誠心電視台,https://www.youtube.com/@chengsintv2/live
+43,TV044,信大電視台,https://www.youtube.com/@user-mj5bl5ze5o/live
+44,TV045,海豚電視台,https://www.youtube.com/@24811001/live
+45,TV046,桐瑛虎尾電視臺,https://www.youtube.com/@user-de3rj3ee4y/live
+46,TV047,新唐人亞太台,https://www.youtube.com/NTDapTV/live
+47,TV048,CCTV中文国际,https://www.youtube.com/@LiveNow24H/live
+48,TV049,鳳凰衛視,https://www.youtube.com/@phoenixtvhk/live
+49,TV050,鳳凰資訊,https://www.youtube.com/@phoenixtvnews7060/live
